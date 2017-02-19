@@ -8,11 +8,10 @@ img {
   height: auto;
 }
 
-*{
+* {
   box-sizing: border-box;
 }
 
-a{
+a {
   color: $mainOrange;
-  text-decoration: none;
 }
